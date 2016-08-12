@@ -1,0 +1,10 @@
+  __  __                            
+ |  \/  |         /\                
+ | \  / |_   _   /  \   _ __  _ __  
+ | |\/| | | | | / /\ \ | '_ \| '_ \ 
+ | |  | | |_| |/ ____ \| |_) | |_) |
+ |_|  |_|\__, /_/    \_\ .__/| .__/ 
+          __/ |        | |   | |    
+         |___/         |_|   |_|    
+         
+${AnsiColor.BRIGHT_BLUE}:: MyApp API :: ${AnsiColor.BRIGHT_RED}Running Spring Boot ${spring-boot.version} :: ${AnsiColor.BLACK}
